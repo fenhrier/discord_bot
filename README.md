@@ -1,2 +1,2 @@
-# discord_bot
+# Hestia
 plz
